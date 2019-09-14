@@ -1,0 +1,35 @@
+h1 {
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
+img {
+
+    height: 100px;
+    width: 100px;
+
+}
+.student {
+    color:lightseagreen;
+    float:left;
+    margin-right: 0;
+
+}
+.parah {
+    float:left;
+    margin-top: 40px;
+    color: red;
+    
+}
+
+
+.contact {
+    float:right;
+
+
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px
+
+}
